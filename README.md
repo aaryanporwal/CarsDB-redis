@@ -1,3 +1,14 @@
+# Cars DB
+
+* Frontend (made with tailwind) looks like:
+
+  ![image](https://user-images.githubusercontent.com/54525904/152416364-07084e28-fc4d-483f-890a-6828dcf03071.png)
+
+* Corresponding DB entry:
+  ![image](https://user-images.githubusercontent.com/54525904/152416288-7df0f998-8f4d-4b96-b5b0-01a1de779341.png)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
